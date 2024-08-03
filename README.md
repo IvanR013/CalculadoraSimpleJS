@@ -25,4 +25,4 @@ Para instalar y ejecutar el proyecto localmente, sigue estos pasos:
 1. **Clona el Repositorio:**
 
    ```bash
-   git clone 
+   git clone https://github.com/IvanR013/CalculadoraSimpleJS.git
