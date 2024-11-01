@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este es un proyecto de una calculadora simple realizada con HTML, CSS y JavaScript. La calculadora permite realizar operaciones básicas como suma, resta, multiplicación y división, así como manejar errores de cálculo y valores especiales.
+Calculadora simple realizada con HTML, CSS y JavaScript. La calculadora permite realizar operaciones ariméticas básicas como suma, resta, multiplicación y división, así como manejar errores de cálculo y valores especiales.
 
 ## Características
 
@@ -18,11 +18,3 @@ Este es un proyecto de una calculadora simple realizada con HTML, CSS y JavaScri
 - CSS
 - JavaScript
 
-## Instalación
-
-Para instalar y ejecutar el proyecto localmente, sigue estos pasos:
-
-1. **Clona el Repositorio:**
-
-   ```bash
-   git clone https://github.com/IvanR013/CalculadoraSimpleJS.git
