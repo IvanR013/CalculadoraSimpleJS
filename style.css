@@ -1,13 +1,13 @@
 body {
   font-family: Arial, sans-serif;
-  background-image: url(https://cdn.hovia.com/app/uploads/maths-physics-chalkboard-stem-pattern-wallpaper-mural-Room-820x532@2x.jpg);
+  background-image: url(assets/mathback.jpg);
 }
 
 h1 {
   text-align: center;
   margin-top: 30px;
   text-decoration: underline;
-  color: rgb(242, 215, 98);
+  color: rgb(251, 250, 249);
 }
 
 h2 {
@@ -20,7 +20,7 @@ h2 {
 .calculadora {
   width: 314px;
   margin: 0 auto;
-  background-color: #6b6a6a;
+  background-color: #000000;
   padding: 20px;
   border-radius: 7px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -52,4 +52,15 @@ input[type="button"]:hover {
 
 input[type="button"]:last-child {
   margin-right: 0;
+}
+
+.container {
+  background-color: #000000; /* Color de fondo del contenedor */
+  border: 2px solid #4CAF50; /* Color y grosor del borde */
+  border-radius: 10px; /* Bordes redondeados */
+  padding: 20px; /* Espaciado interno */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Sombra sutil para dar profundidad */
+  max-width: 400px; /* Ancho máximo del contenedor */
+  margin: 20px auto; /* Centra el contenedor en la página */
+  text-align: center; /* Centra el texto dentro del contenedor */
 }
